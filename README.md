@@ -1,5 +1,5 @@
 ## Hiya 😺
 - 🌱 CSS, HTML, JavaScript, Node.js
-- 🔧 Electron, VS Code, Figma, Adobe Illustrator, Adobe Photoshop
+- 🔧 Electron, Expo Go, React Native, VS Code, Figma, Adobe Illustrator
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have three cats! 🐈‍⬛
